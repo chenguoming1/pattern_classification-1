@@ -1,4 +1,6 @@
 ### pattern_classification
+Based of the PRT Framework: http://covartech.github.io/ 
+
 # Duke Pattern Classification Course
 
 ## HW 1 - LDA & FLD Assignment 
