@@ -1,5 +1,5 @@
 ### pattern_classification
-Based of the PRT Framework: http://covartech.github.io/ 
+Based off the PRT Framework: http://covartech.github.io/ 
 
 # Duke Pattern Classification Course
 
