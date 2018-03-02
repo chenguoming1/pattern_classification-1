@@ -9,5 +9,8 @@ Based off the PRT Framework: http://covartech.github.io/
 
 ## HW 3 - The Curse of Dimensionality 
 
+## HW 4 - PCA
 
 ## HW 5 - Dimension Reduction
+
+## HW 6 - Multiclass Classification 
